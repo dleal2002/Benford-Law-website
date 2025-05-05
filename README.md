@@ -7,3 +7,5 @@ I'm excited to share my work and insights into Benford's Law with you. This repo
 To delve deeper and discover more about Benford's Law and my research, please visit my website:
 
 [https://benfordlaw.netlify.app/](https://benfordlaw.netlify.app/)
+
+For Full Report: refer to Bendford PDF within github 
