@@ -6,4 +6,4 @@ I'm excited to share my work and insights into Benford's Law with you. This repo
 
 To delve deeper and discover more about Benford's Law and my research, please visit my website:
 
-[https://benfordlawhtml.netlify.app/](https://benfordlawhtml.netlify.app/)
+[https://benfordlaw.netlify.app/](https://benfordlaw.netlify.app/)
